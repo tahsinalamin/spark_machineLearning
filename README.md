@@ -1,6 +1,6 @@
 # spark_machineLearning
 
-Several Machine learning models in Spark-MLLib with Scala.
+Several Machine learning models in Spark-MLlib with Scala.
 
 1. Linear Regression
 2. PCA
